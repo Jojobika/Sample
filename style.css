@@ -1,0 +1,50 @@
+body{
+background-color:#FDD5D5;
+}
+
+a{
+text-decoration:none;
+color: #FD6060;
+}
+
+#containter{
+background-color:white;
+width: 700px;
+margin-left:auto;
+margin-right:auto;
+
+
+}
+
+#header {
+background-color: #D4DEDC;
+color:#FA3838;
+text-align:center;
+}
+
+#content{
+padding: 10px;
+
+}
+
+#nav{
+width:180px;
+float:left;
+color:#FD6060;
+}
+
+.selected{
+font-weight:bold;
+}
+
+#main{
+width:600px;
+foat:right;
+color:#FD6060;
+}
+
+#footer{
+clear:both;
+text-align: right;
+color:#F9E9E9;
+}
